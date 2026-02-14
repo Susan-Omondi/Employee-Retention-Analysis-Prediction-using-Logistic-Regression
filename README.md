@@ -8,7 +8,7 @@ The analysis focuses on identifying patterns related to:
 - Promotions
 - Departmental trends
 - 
-#Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 Exploratory analysis was performed to identify variables that have a clear impact on employee retention.
 
 Key Findings:
@@ -24,7 +24,7 @@ Selected Features:
 - satisfaction_level
 - average_montly_hours
 - promotion_last_5years
-- 
+  
 # Visual Analysis
 The following visualizations were created:
 - Salary vs Employee Retention (bar chart)
